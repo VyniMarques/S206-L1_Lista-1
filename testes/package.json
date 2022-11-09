@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.1",
+    "cypress": "^10.11.0",
+    "cypress-drag-drop": "^1.1.1"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.2.3"
+  }
+}
